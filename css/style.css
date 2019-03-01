@@ -85,8 +85,8 @@ a:hover {
 .bg-image {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
+  background-size: 1075px;
+  background-position: 45% 40%;
 }
 
 .overlay-mf {
@@ -476,8 +476,8 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0.1px;
+  padding-bottom: 0.1px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
@@ -1265,8 +1265,8 @@ footer .credits a {
 }
 .header img {
   float: left;
-  width: 90px;
-  height: 108px;
+  width: 100px;
+  height: 160px;
   background: #0;
 
 }
